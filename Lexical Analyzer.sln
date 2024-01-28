@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lexical Analyzer", "Lexical Analyzer.vcxproj", "{BFE7CEE3-00EB-4FD5-800C-A785AD36D9E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE7CEE3-00EB-4FD5-800C-A785AD36D9E0}.Debug|x64.ActiveCfg = Debug|x64
+		{BFE7CEE3-00EB-4FD5-800C-A785AD36D9E0}.Debug|x64.Build.0 = Debug|x64
+		{BFE7CEE3-00EB-4FD5-800C-A785AD36D9E0}.Debug|x86.ActiveCfg = Debug|Win32
+		{BFE7CEE3-00EB-4FD5-800C-A785AD36D9E0}.Debug|x86.Build.0 = Debug|Win32
+		{BFE7CEE3-00EB-4FD5-800C-A785AD36D9E0}.Release|x64.ActiveCfg = Release|x64
+		{BFE7CEE3-00EB-4FD5-800C-A785AD36D9E0}.Release|x64.Build.0 = Release|x64
+		{BFE7CEE3-00EB-4FD5-800C-A785AD36D9E0}.Release|x86.ActiveCfg = Release|Win32
+		{BFE7CEE3-00EB-4FD5-800C-A785AD36D9E0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E33993C-12B7-4AB3-B48D-F42B5130891E}
+	EndGlobalSection
+EndGlobal
